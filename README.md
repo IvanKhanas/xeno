@@ -1,1 +1,1 @@
-### [AltLinux](https://en.altlinux.org/Main_Page) Maintainer
+### [AltLinux](https://packages.altlinux.org/en/sisyphus/maintainers/xeno) Java Maintainer
